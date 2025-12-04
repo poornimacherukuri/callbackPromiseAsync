@@ -9,6 +9,7 @@ const myfun=async()=>{
     const result1=await getUserDetails("123");
     console.log(result1);
     console.log("Bye");
+    console.log("Hello");
 }
 
 myfun();
